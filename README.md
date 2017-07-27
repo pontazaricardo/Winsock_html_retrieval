@@ -1,6 +1,6 @@
 # Winsock_html_retrieval
 
-This is a c++ project that connects to a website (input by the user) via sockets, downloads the site's html and looks for any links in the site (<a href = ''> tags).
+This is a c++ project that connects to a website (input by the user) via sockets, downloads the site's html and looks for any links in the site (*a href* tags).
 
 ## Usage
 
@@ -27,16 +27,17 @@ You will get in console the links, and also the program will generate a *obtaine
 
 ## Notes
 
-1. If the links are of a different form (not <a href =''> tags), the program will not be able to find them.
+1. If the links are of a different form (not *a href* tags), the program will not be able to find them.
 2. If a site has temporal or permanent forwarding, it will not work. Please use the already forwarded address instead.
 3. Do not use *http://* neither *https://*. A normal *www.foo.bar* will work.
 
 ## Examples
 
 We tested it with different sites:
-1. www.ntu.edu.tw
-2. www.nthu.edu.tw
-3. arcadianhome.com
+1. [www.ntu.edu.tw](www.ntu.edu.tw)
+2. [www.nthu.edu.tw](www.nthu.edu.tw)
+3. [arcadianhome.com](arcadianhome.com)
+
 without any problems.
 
 ![Run example](/images/run.png?raw=true)
