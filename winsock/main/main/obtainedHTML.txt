@@ -1,0 +1,162 @@
+===========================FOUND HTML===========================
+
+
+HTTP/1.1 200 OK
+Date: Thu, 27 Jul 2017 04:07:45 GMT
+Server: Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 mod_apreq2-20090110/2.7.1 mod_perl/2.0.4 Perl/v5.10.1
+Last-Modified: Mon, 26 Jun 2017 05:44:05 GMT
+ETag: "2300000001335e-f5a-552d6705bfe7f"
+Accept-Ranges: bytes
+Content-Length: 3930
+Connection: close
+Content-Type: text/html
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+
+
+
+<!--<meta HTTP-EQUIV="REFRESH" content="0; url=http://wasn2013.cs.nthu.edu.tw/WASN2013_website/WASN2013/index.php">-->
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>NTHU CAN LAB</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link href="style2.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="images/favicon.ico" />
+<style type="text/css">
+<!--
+.style7 {color: #808080}
+-->
+</style>
+</head>
+<body>
+<div id="middleimage">
+	<div id="topimage">
+		<div id="header">
+			<div id="logo">
+				<h1><img src="CANO.bmp">CAN LAB</h1>
+				<p> Communications and Networking Lab </p>
+		      <p>
+		  </div>
+			<!-- end of logo area-->
+			<div id="menu">
+				<div class="menubg">
+					<div class="buttontext"><a href="index.html">Home</a></div>
+				</div>
+				<div class="menubg">
+				    <div class="buttontext"><a href="Members.html">Members</a></div>
+				</div>
+				<div class="menubg">
+				    <div class="buttontext"><a href="advisor.html">Advisor</a></div>
+				</div>
+				<div class="menubg">
+				    <div class="buttontext"><a href="LAB/show.php">Lab Zone</a></div>
+				</div>
+				<div class="menubg">
+				 	<div class="buttontext"><a href="Gallery.html">Gallery</a></div>
+				</div>
+				    <div class="menubg"><div class="buttontext"><a href="contact.html">Contact Us</a></div>
+				</div>
+	      </div>
+	  </div>
+		<!-- end of header -->
+		<div id="page_content">
+			<div id="main_content">
+				<div class="paragraph">
+					<h2>Welcome to CAN LAB </h2>
+					<div class="text">
+						<p> 我們實驗室全名為「通訊與網路實驗室」，英文全名為 Communications and Networking Laboratory，簡稱</p>
+						<p>「CAN實驗室」，成立於2008年，目前有碩士生八人，指導教授是高榮駿教授。</p>
+						<p>我們的研究方向為分析、設計並且優化多種無線網路技術，並將所研發的技術拓展到其他的應用面。 </p>
+						<p>我們的研究方向涵蓋下列議題:</p>
+						<ul type="disc">
+                          <li>Wireless ad-hoc       networks and wireless sensor networks</li>
+				          <li>Wireless vehicular       networks</li>
+				          <li>Cooperative       communication</li>
+				          <li>Network coding</li>
+				          <li>Wireless access       networks (WiFi, WiMAX, etc)</li>
+				          <li>Design and analysis of       multicast algorithms and routing protocols</li>
+				          <li>Performance modeling</li>
+				          <li>Mobile computing</li>
+			              <li>Android programming </li>
+			          </ul>
+		          </div>
+				</div>
+				<div class="paragraph">
+				  <div class="text"></div>
+					
+					
+				</div>
+			</div>
+			<!-- end of content -->
+			<div id="rightbar">
+			<h2>Latest News</h2>
+						
+						<ul><li><a href="#"></a></li>
+							<li><a href="#"></a></li>
+							<li></li>							
+							<li></li>
+							<li></li>
+						</ul>
+
+		   <h2>Related Sources</h2>		
+
+						<ul>
+							<li><a href="http://www.nthu.edu.tw">NTHU</a></li>
+							<li><a href="http://web.cs.nthu.edu.tw/bin/home.php">NTHU CS </a></li>
+							<li><a href="http://www.com.nthu.edu.tw/">NTHU COM </a></li>
+							<li></li>
+							<li></li>
+							<li></li>
+							<li></li>
+							<li></li>
+						</ul>
+		  </div>
+			<!-- end of sidebar -->
+			<div class="cleaner"></div>
+		</div>
+		<!-- end of page -->
+	</div>
+</div>
+<div id="footerimage">
+	<div id="footer">
+		<p>Copyright CaN LAB; 2010 NTHU CAN LAB.  DESIGN BY HIGH IMPACT <a href="http://www.highimpact-seo.co.uk/">SEO SERVICES</a>. </p>
+  </div>
+</div>
+<!-- end of footer -->
+</body>
+</html>
+
+**************************FOUND LINKS***************************
+
+ LINK NO. 1: index.html
+
+ LINK NO. 2: Members.html
+
+ LINK NO. 3: advisor.html
+
+ LINK NO. 4: LAB/show.php
+
+ LINK NO. 5: Gallery.html
+
+ LINK NO. 6: contact.html
+
+ LINK NO. 7: #
+
+ LINK NO. 8: #
+
+ LINK NO. 9: http://www.nthu.edu.tw
+
+ LINK NO. 10: http://web.cs.nthu.edu.tw/bin/home.php
+
+ LINK NO. 11: http://www.com.nthu.edu.tw/
+
+ LINK NO. 12: http://www.highimpact-seo.co.uk/
