@@ -21,10 +21,6 @@ Just import the project and rebuild.
 	```	
 	in the box, and then click on OK.
 	
-## Results
-
-You will get in console the links, and also the program will generate a *obtainedHTML.txt* file with both the html and the links.
-
 ## Notes
 
 1. If the links are of a different form (not *a href* tags), the program will not be able to find them.
@@ -40,4 +36,10 @@ We tested it with different sites:
 
 without any problems.
 
-![Run example](/images/run.png?raw=true)
+![Run example](/images/run.gif?raw=true)
+
+## Results
+
+You will get in console the links, and also the program will generate a *obtainedHTML.txt* file with both the html and the links. Just check the application folder for the generated text file.
+
+![results](/images/result.gif?raw=true)
