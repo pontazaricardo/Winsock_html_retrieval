@@ -1,162 +1,1181 @@
 ===========================FOUND HTML===========================
 
 
-HTTP/1.1 200 OK
-Date: Thu, 27 Jul 2017 04:07:45 GMT
-Server: Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 mod_apreq2-20090110/2.7.1 mod_perl/2.0.4 Perl/v5.10.1
-Last-Modified: Mon, 26 Jun 2017 05:44:05 GMT
-ETag: "2300000001335e-f5a-552d6705bfe7f"
-Accept-Ranges: bytes
-Content-Length: 3930
-Connection: close
-Content-Type: text/html
-
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<head>
-
-
-
-
-
-<!--<meta HTTP-EQUIV="REFRESH" content="0; url=http://wasn2013.cs.nthu.edu.tw/WASN2013_website/WASN2013/index.php">-->
-
-
-
-
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>NTHU CAN LAB</title>
-<meta name="description" content="" />
-<meta name="keywords" content="" />
-<link href="style2.css" rel="stylesheet" type="text/css" />
-<link rel="shortcut icon" href="images/favicon.ico" />
-<style type="text/css">
-<!--
-.style7 {color: #808080}
--->
-</style>
-</head>
-<body>
-<div id="middleimage">
-	<div id="topimage">
-		<div id="header">
-			<div id="logo">
-				<h1><img src="CANO.bmp">CAN LAB</h1>
-				<p> Communications and Networking Lab </p>
-		      <p>
-		  </div>
-			<!-- end of logo area-->
-			<div id="menu">
-				<div class="menubg">
-					<div class="buttontext"><a href="index.html">Home</a></div>
-				</div>
-				<div class="menubg">
-				    <div class="buttontext"><a href="Members.html">Members</a></div>
-				</div>
-				<div class="menubg">
-				    <div class="buttontext"><a href="advisor.html">Advisor</a></div>
-				</div>
-				<div class="menubg">
-				    <div class="buttontext"><a href="LAB/show.php">Lab Zone</a></div>
-				</div>
-				<div class="menubg">
-				 	<div class="buttontext"><a href="Gallery.html">Gallery</a></div>
-				</div>
-				    <div class="menubg"><div class="buttontext"><a href="contact.html">Contact Us</a></div>
-				</div>
-	      </div>
-	  </div>
-		<!-- end of header -->
-		<div id="page_content">
-			<div id="main_content">
-				<div class="paragraph">
-					<h2>Welcome to CAN LAB </h2>
-					<div class="text">
-						<p> 我們實驗室全名為「通訊與網路實驗室」，英文全名為 Communications and Networking Laboratory，簡稱</p>
-						<p>「CAN實驗室」，成立於2008年，目前有碩士生八人，指導教授是高榮駿教授。</p>
-						<p>我們的研究方向為分析、設計並且優化多種無線網路技術，並將所研發的技術拓展到其他的應用面。 </p>
-						<p>我們的研究方向涵蓋下列議題:</p>
-						<ul type="disc">
-                          <li>Wireless ad-hoc       networks and wireless sensor networks</li>
-				          <li>Wireless vehicular       networks</li>
-				          <li>Cooperative       communication</li>
-				          <li>Network coding</li>
-				          <li>Wireless access       networks (WiFi, WiMAX, etc)</li>
-				          <li>Design and analysis of       multicast algorithms and routing protocols</li>
-				          <li>Performance modeling</li>
-				          <li>Mobile computing</li>
-			              <li>Android programming </li>
-			          </ul>
-		          </div>
-				</div>
-				<div class="paragraph">
-				  <div class="text"></div>
-					
-					
-				</div>
-			</div>
-			<!-- end of content -->
-			<div id="rightbar">
-			<h2>Latest News</h2>
-						
-						<ul><li><a href="#"></a></li>
-							<li><a href="#"></a></li>
-							<li></li>							
-							<li></li>
-							<li></li>
-						</ul>
-
-		   <h2>Related Sources</h2>		
-
-						<ul>
-							<li><a href="http://www.nthu.edu.tw">NTHU</a></li>
-							<li><a href="http://web.cs.nthu.edu.tw/bin/home.php">NTHU CS </a></li>
-							<li><a href="http://www.com.nthu.edu.tw/">NTHU COM </a></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-		  </div>
-			<!-- end of sidebar -->
-			<div class="cleaner"></div>
-		</div>
-		<!-- end of page -->
-	</div>
-</div>
-<div id="footerimage">
-	<div id="footer">
-		<p>Copyright CaN LAB; 2010 NTHU CAN LAB.  DESIGN BY HIGH IMPACT <a href="http://www.highimpact-seo.co.uk/">SEO SERVICES</a>. </p>
-  </div>
-</div>
-<!-- end of footer -->
-</body>
-</html>
+HTTP/1.1 200 OK
+
+Date: Thu, 10 Aug 2017 02:24:41 GMT
+
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+
+Pragma: no-cache
+
+Connection: close
+
+Content-Type: text/html; charset=UTF-8
+
+Set-Cookie: PHPSESSID=vuegtmvjald29g077jvbgt7vb2; path=/; HTTPonly; 
+
+Set-Cookie: TS013384c7=01e5c246e00b4d74e3a87ee26abb8b5278879e989c054f0db4989630baed67c316761fe223f88ae7c53c90267fc541b28a69f80314; Path=/; HTTPOnly
+
+Vary: Accept-Encoding
+
+Transfer-Encoding: chunked
+
+
+
+4000
+
+
+
+
+
+<!doctype html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8">
+
+        <title>國立清華大學</title>
+
+
+
+        <meta property="og:title" content="國立清華大學" />
+
+        <meta property="og:url" content="http://www.nthu.edu.tw/" />
+
+        <meta property="og:description" content="國立清華大學-1909年以美國退還庚子賠款，成立游美學務處選派學生留美。1911年設校稱清華學堂。幾經戰亂，1955年復校於新竹。清華大學復校初期重點為原子科學，其後則擴展至理工方面，近十幾年來更積極發展人文社會、生命科學、電機資訊與科技管理；漸漸地，清華已成為一文、理、工均衡發展的學府。秉持「自強不息，厚德載物」校訓，致力培育德、智、體、群、美五育兼優，兼具科學與人文素養的領導者和社會公民。" />
+
+        <meta property="og:image" content="http://www.nthu.edu.tw/_img/NTHU-logo.png" />
+
+        <meta name="keywords" content="National Tsing Hua University,國立清華大學,清華,清大">
+
+        <meta name="description" content="國立清華大學-1909年以美國退還庚子賠款，成立游美學務處選派學生留美。1911年設校稱清華學堂。幾經戰亂，1955年復校於新竹。清華大學復校初期重點為原子科學，其後則擴展至理工方面，近十幾年來更積極發展人文社會、生命科學、電機資訊與科技管理；漸漸地，清華已成為一文、理、工均衡發展的學府。秉持「自強不息，厚德載物」校訓，致力培育德、智、體、群、美五育兼優，兼具科學與人文素養的領導者和社會公民。">
+
+
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+
+<base href="http://www.nthu.edu.tw//public/" />
+
+<link rel="shortcut icon" type="image/x-icon" href="http://www.nthu.edu.tw/favicon-nthu.ico" /> <!--favicon.ico-->
+
+<!--GA-->
+
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+
+
+  ga('create', 'UA-1517626-6', 'auto');
+
+  ga('send', 'pageview');
+
+
+
+</script>
+
+<!--GA-->
+
+
+
+
+
+<link href="style/reset.css" rel="stylesheet" type="text/css">
+
+<link href="style/header.css" rel="stylesheet" type="text/css">
+
+<link href="style/footer.css" rel="stylesheet" type="text/css">
+
+
+
+<!--js-->
+
+
+
+<script src="js/jquery-1.8.2.min.js" type="text/javascript"></script>
+
+<script src="js/CreateHTML5Elements.js" type="text/javascript"></script>
+
+<script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
+
+<script src="js/modernizr.custom.js" type="text/javascript"></script>
+
+<script src="js/jquery-ui-1.10.1.custom.min.js" type="text/javascript"></script>
+
+<script src="js/custom.js" type="text/javascript"></script>
+
+<noscript>以上六個Script功能提供基本運作功能，若您的瀏覽器不支援此項功能，也不影響你閱讀本網站資訊。</noscript>
+
+
+
+<!-- Menu -->
+
+
+
+<script src="js/jquery.meanmenu.js"></script>
+
+<script>
+
+    jQuery(document).ready(function () {
+
+        jQuery('nav').meanmenu();
+
+    });
+
+</script>
+
+
+
+<!-- SEARCH -->
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+	// search
+
+	$('#searchBtn').click(function () {
+
+		$('#searchForm').attr('action', '/searchUrl/index');
+
+
+
+		$('#searchForm').attr('method', 'get');
+
+		$('#searchForm').attr('target', '_blank');
+
+		$('#searchForm').submit();
+
+	})
+
+});
+
+</script>
+
+
+
+<noscript>本Script功能提供選單功能，若您的瀏覽器不支援此項功能，也不影響你閱讀本網站資訊。</noscript>
+
+
+
+<!--收合-->
+
+<script type="text/javascript">
+
+    function carrousel_show_cover(id) {
+
+        $("#hide_text_" + id).slideToggle(100);
+
+    }
+
+
+
+    function carrousel_hide_cover(id) {
+
+        $("#hide_text_" + id).hide(10);
+
+    }
+
+</script>
+
+
+
+<script src="js/nthu.js"></script>        <link href="style/index.css" rel="stylesheet" type="text/css">
+
+
+
+        <!-- FlexSlider -->
+
+        <script defer src="js/jquery.flexslider.js"></script>
+
+        <script type="text/javascript">
+
+            $(window).load(function () {
+
+                $('.flexslider').flexslider({
+
+                    animation: "slide"
+
+                });
+
+            });
+
+        </script>
+
+        <noscript>本Script功能提供廣告輪播功能，若您的瀏覽器不支援此項功能，也不影響你閱讀本網站資訊。</noscript>
+
+
+
+        <!-- Flexisel -->
+
+        <script src="js/jquery.flexisel.js"></script>
+
+        <noscript>本Script功能提供小廣告輪播功能，若您的瀏覽器不支援此項功能，也不影響你閱讀本網站資訊。</noscript>
+
+
+
+    </head>
+
+
+
+    <body>
+
+        <div class="weapper">
+
+<header>
+
+	<div class="container">
+
+        <div class="logo"><a href="/"><img src="images/logo.png" alt="國立清華大學logo"></a></div>
+
+        <div class="top">
+
+		
+
+        	<ul>
+
+				<a href="/sitemap" accesskey="U" class="tab" title="上方選單區">:::</a>
+
+            	<li>
+
+                	<!-- -------------------------- { 搜尋區 } -------------------------- -->
+
+                    <form name="searchForm" id="searchForm" method="get" accept-charset="utf-8">
+
+                        <div class="width-25">
+
+                        	<select id="type" name="type">
+
+                        	  <option>Web</option>
+
+                              <option value="1">People</option>
+
+                              <option value="2">Offices</option>
+
+                        	</select>
+
+                        </div>
+
+                        <div class="width-75 input">
+
+                            <input name="q" id="q" type="text" placeholder="search"><input name="searchBtn" id="searchBtn" type="button">
+
+                        </div>
+
+                    </form>
+
+                    <!-- -------------------------- { 搜尋區 end } -------------------------- -->
+
+
+
+                    <div class="width-100 pull-right text">
+
+                        <a href="/sitemap">網站導覽</a> | 
+
+                        <a href="http://nthusearch.net.nthu.edu.tw/nthusearch/" target="_blank">通訊錄</a> | 
+
+                        <a href="http://dgaa.web.nthu.edu.tw/files/11-1074-2942.php" target="_blank">行事曆</a> | 
+
+                        <a href="http://dud.web.nthu.edu.tw/files/11-1675-9374.php?Lang=zh-tw" target="_blank">捐款</a> | 
+
+                        <a href="http://nthu-en.web.nthu.edu.tw/" target="_blank">English</a>
+
+                    </div>
+
+                </li>
+
+                <li>
+
+                    <a href="/entrance/student">在校生</a> | 
+
+                    <a href="http://oga.nthu.edu.tw/" target="_blank">International Students</a> | 
+
+                    <a href="http://gsa.web.nthu.edu.tw/files/11-1146-3222.php" target="_blank">僑 生</a> | 
+
+                    <a href="http://oga.nthu.edu.tw/cont.php?id=398&m=m141&mm=mm142&tc=8&lang=big5" target="_blank">陸  生</a><span>|</span>
+
+                </li>
+
+
+
+                <li>
+
+                    <a href="/entrance/teacher">教職員</a> | 
+
+                    <a href="http://alumni.web.nthu.edu.tw/" target="_blank">校友</a> | 
+
+                    <a href="http://admission.nthu.edu.tw/" target="_blank">未來學生</a> | 
+
+                    <a href="/entrance/visitor">訪 客</a> | 
+
+                    <a href="http://www1.nthu.edu.tw/" target="_blank">舊版首頁</a>
+
+                </li>
+
+
+
+                <li>
+
+                    <a href="/hotNews">首頁故事</a> | 
+
+                    <a href="/periodical">清華簡訊</a> | 
+
+                    <a href="/newsLetter">NTHU Newsletter</a>
+
+                </li>
+
+
+
+                
+
+
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</header>
+
+
+
+<section>
+
+<div class="container">
+
+    <nav class="main_menu">
+
+	<ul>
+
+    	<li><a href="/about">認識清華</a></li><!--<i class="fa fa-angle-down" aria-hidden="true"></i>-->
+
+        <li><a href="/units/administrative">行政單位</a></li><!--<i class="fa fa-angle-down" aria-hidden="true"></i>-->
+
+        <li><a href="/units/education">教學單位</a></li><!--<i class="fa fa-angle-down" aria-hidden="true"></i>-->
+
+        <li><a href="/units/researchCenter">研究中心</a></li><!--<i class="fa fa-angle-down" aria-hidden="true"></i>-->
+
+        <li><a href="http://www.lib.nthu.edu.tw/" target="_blank">圖書館</a></li><!--<i class="fa fa-angle-down" aria-hidden="true"></i>-->
+
+        <li><a href="http://www.cc.nthu.edu.tw/" target="_blank">計算機與通訊中心</a></li><!--<i class="fa fa-angle-down" aria-hidden="true"></i>-->
+
+        <li><a href="http://admission.nthu.edu.tw/" target="_blank">招生專區</a></li>
+
+        <li><a href="https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/" target="_blank">校務資訊系統</a></li>
+
+        <li><a href="http://my.nthu.edu.tw/~servicef/" target="_blank">新生資訊專區</a></li>
+
+    </ul>
+
+</nav>
+
+        <a href="" accesskey="L" class="tab" title="中間內容區">:::</a>
+
+
+
+                    <!-- 首頁故事 -->
+
+            <div class="slider">
+
+                <div class="flexslider">
+
+                    <ul class="slides">
+
+                                                    <li><a href="/hotNews/content/522"><img src="/images/hnMain_150218288256.jpg" alt="諾貝爾、費爾茲獎學者齊聚清華" /><div>諾貝爾、費爾茲獎學者齊聚清華</div></a></li>
+
+                                                    <li><a href="/hotNews/content/521"><img src="/images/hnMain_150148462579.jpg" alt="清華破解軟絲語 變換體色「我愛你」" /><div>清華破解軟絲語 變換體色「我愛你」</div></a></li>
+
+                                                    <li><a href="/hotNews/content/520"><img src="/images/hnMain_150148447357.jpg" alt="校友推動三創 設實創中心孵創意" /><div>校友推動三創 設實創中心孵創意</div></a></li>
+
+                                                    <li><a href="/hotNews/content/519"><img src="/images/hnMain_150096916588.jpg" alt="工學院舉辦領袖營 反思成功的定義" /><div>工學院舉辦領袖營 反思成功的定義</div></a></li>
+
+                                            </ul>
+
+                </div>
+
+            </div>
+
+            <!-- 首頁故事 end -->
+
+        
+
+        <div class="width-100 main">
+
+
+
+            
+
+                            <!-- 卓越獎項 -->
+
+                <div>
+
+                    <h1>卓 越 獎 項</h1>
+
+                    <ul>
+
+                                                    <li><a href="/award/content/116">電機系林澤副教授、物理系童世光助理教授、數學系張介玉副教授榮獲傑出人才發展基金會第五屆「年輕學者創新獎」</a></li>
+
+                                                    <li><a href="/award/content/115">體育系學生陳念琴於蒙古烏蘭巴托盃拳擊邀請賽中奪下女子75公斤量級金牌</a></li>
+
+                                                    <li><a href="/award/content/114">本校物理系郭瑞年特聘講座教授、材料系闕郁倫教授榮獲2017年亞太材料學院院士和副院士(Asia Pacific Academy of Materials, APAM Academician and Associate Academician)</a></li>
+
+                                                    <li><a href="/award/content/113">通訊所張正尚特聘講座教授榮獲電機電子工程師學會計算機通訊國際研討會 (IEEE INFOCOM) 終身成就獎</a></li>
+
+                                                    <li><a href="/award/content/112">資工系劉炯朗講座教授獲歐洲設計及自動化協會終身成就獎</a></li>
+
+                                                    <li><a href="/award/content/111">物理系余怡德教授、化工系呂世源教授、服科所徐茉莉教授、材料系葉均蔚教授、材料系賴志煌教授、工工系簡禎富教授獲105年度科技部傑出研究獎</a></li>
+
+                                                <a href="/award">Read more</a>
+
+                    </ul>
+
+                </div>
+
+                <!-- 卓越獎項 end -->
+
+            
+
+                            <!-- 清華新聞 -->
+
+                <div>
+
+                    <h1>清 華 新 聞</h1>
+
+                                            <div>
+
+                            <div class="width-28"><img src="/images/news_150086432161.jpg" alt="黑白天鵝悠遊相思湖 清華大學美景加一"></div>
+
+                            <div class="width-72">
+
+                                <p class="fontsize18">黑白天鵝悠遊相思湖 清華大學美景加一</p>
+
+                                <p>國立清華大學的相思湖環境優美，是不少師生最愛校景，也吸引許多校外遊客駐足。但有...<a href="http://secretary.web.nthu.edu.tw/files/15-1160-121413,c8330-1.php?Lang=zh-tw" target="_blank">Read more</a></p>
+
+                            </div>
+
+                        </div>
+
+                                            <div>
+
+                            <div class="width-28"><img src="/images/news_150086430184.jpg" alt="清大生好點子 分享食材、平板、露營帳 "></div>
+
+                            <div class="width-72">
+
+                                <p class="fontsize18">清大生好點子 分享食材、平板、露營帳 </p>
+
+                                <p>科技如何協助人們分享食材、平板電腦、登山杖、露營帳蓬，甚至一趟旅程或共餐的經驗...<a href="http://secretary.web.nthu.edu.tw/files/15-1160-121414,c8330-1.php?Lang=zh-tw" target="_blank">Read more</a></p>
+
+                            </div>
+
+                        </div>
+
+                                            <div>
+
+                            <div class="width-28"><img src="/images/news_150086427763.jpg" alt="「清華2號」賽車發表 更快更輕更好"></div>
+
+                            <div class="width-72">
+
+                                <p class="fontsize18">「清華2號」賽車發表 更快更輕更好</p>
+
+                                <p>一群愛好F1方程式賽車的清華大學動力機械系學生創立「賽車工廠」(NTHU  Racing)，親...<a href="http://secretary.web.nthu.edu.tw/files/15-1160-118530,c8330-1.php?Lang=zh-tw" target="_blank">Read more</a></p>
+
+                            </div>
+
+                        </div>
+
+                                            <div>
+
+                            <div class="width-28"><img src="/images/news_149542384643.JPG" alt="清華國際志工回首10年　「自己才是最大受益者」"></div>
+
+                            <div class="width-72">
+
+                                <p class="fontsize18">清華國際志工回首10年　「自己才是最大受益者」</p>
+
+                                <p>清華大學國際志工團成立10年了，曾赴尼泊爾、坦尚尼亞等各國服務的志工們，趁著慶祝...<a href="http://secretary.web.nthu.edu.tw/files/15-1160-118520,c8330-1.php?Lang=zh-tw" target="_blank">Read more</a></p>
+
+                            </div>
+
+                        </div>
+
+                                    </div>
+
+                <!-- 清華新聞 end -->
+
+            
+
+                            <!-- 影音新聞 -->
+
+                <div>
+
+                    <h1>影 音 新 聞</h1>
+
+                                            <div class="width-100 video">
+
+                            <div class="width-65"><iframe width="560" height="315" src="https://www.youtube.com/embed/nDqfZfdHJyg" frameborder="0" allowfullscreen title="清華機器人出國比賽 抱回美東區第四名"></iframe></div>
+
+                            <div class="width-35">
+
+                                <p class="fontsize18">國立清華大學動力機械系、物理系及電機系大一學生組成的團隊設計出會爬樓梯、打高爾夫球、舉重的五項全能機器人，先拿下台灣區智慧機械競賽冠軍，最近再代表台灣前往美國參加學生設計大賽（Student Desi
+
+140a
+
+gn Competition），抱回美東區第四名佳績，一展台灣...</p>
+
+                            </div>
+
+                            <a href="http://nthunews.media.nthu.edu.tw/" target="_blank">Read more</a>
+
+                        </div>
+
+                                    </div>
+
+                <!-- 影音新聞 end -->
+
+            
+
+                            <!-- 媒體報導 -->
+
+                <div>
+
+                    <h1>媒 體 報 導</h1>
+
+                    <ul>
+
+                                                    <li><a href="/mediaReport/content/293">清大圖書館功能多樣變化多  宛如大型家具展示館</a></li>
+
+                                                    <li><a href="/mediaReport/content/292">陸蟹會爬梯！墾丁首見「繩梯」克服產卵天堂路</a></li>
+
+                                                    <li><a href="/mediaReport/content/291">公路局保護陸蟹  全台首座省道「蟹道」打造中</a></li>
+
+                                                    <li><a href="/mediaReport/content/290">清大教授造「蟹道」  簡單有效</a></li>
+
+                                                    <li><a href="/mediaReport/content/289">諾貝爾物理獎梶田隆章　勉清大生：別想一步登天</a></li>
+
+                                                    <li><a href="/mediaReport/content/288">諾貝爾物理獎梶田隆章開講  鼓勵學子專注目標</a></li>
+
+                                                    <li><a href="/mediaReport/content/287">清大研究破解軟絲語 變換體色相互溝通</a></li>
+
+                                                    <li><a href="/mediaReport/content/286">軟絲示愛變色說「我愛你」</a></li>
+
+                                                    <li><a href="/mediaReport/content/285">軟絲變換體色 告白示愛</a></li>
+
+                                                    <li><a href="/mediaReport/content/284">清大研究登上紐約時報 竟是研究這個生物...</a></li>
+
+                                                <a href="/mediaReport">Read more</a>
+
+                    </ul>
+
+                </div>
+
+                <!-- 媒體報導 end -->
+
+            
+
+        </div>
+
+
+
+                    <!-- 校內活動 -->
+
+            <div class="width-100">
+
+                <h1>校 內 活 動</h1>
+
+                <ul id="flexiselDemo2">
+
+                                            <li>
+
+                            <div>
+
+                                <a href="http://www.lib.nthu.edu.tw/guide/exhibits_and_events/2015fountainhead/" target="_blank"><img src="/images/event_150209497365.jpg" alt="【活水講堂】你的廢棄物=我的寶貝：資源回收場甘苦談"></a>
+
+                                <p>
+
+                                    <span>【活水講堂】你的廢棄物=我的寶貝：資源回收場甘苦談</span>
+
+                                    <br><br>8/19(六)14:00在圖書館1F清沙龍<br><br>
+
+                                    <span>歡迎報名參加</span>
+
+                                    <a href="http://www.lib.nthu.edu.tw/guide/exhibits_and_events/2015fountainhead/" target="_blank">Read more</a>
+
+                                </p>
+
+                            </div>
+
+                        </li>
+
+                                            <li>
+
+                            <div>
+
+                                <a href="http://my.nthu.edu.tw/~servicef/" target="_blank"><img src="/images/event_149904927339.jpg" alt="新生資訊專區"></a>
+
+                                <p>
+
+                                    <span>新生資訊專區</span>
+
+                                    <br><br>對象：106學年度新生<br><br>
+
+                                    <span>請點入查看各項相關資訊</span>
+
+                                    <a href="http://my.nthu.edu.tw/~servicef/" target="_blank">Read more</a>
+
+                                </p>
+
+                            </div>
+
+                        </li>
+
+                                            <li>
+
+                            <div>
+
+                                <a href="http://ctld.nthu.edu.tw/news/index.php?mode=data&id=2095" target="_blank"><img src="/images/event_149785880550.jpg" alt="106學年度第一學期教學助理研習營"></a>
+
+                                <p>
+
+                                    <span>106學年度第一學期教學助理研習營</span>
+
+                                    <br><br>活動時間：9/04~9/06<br><br>
+
+                                    <span>歡迎碩博班研究生及大學部高年級學生報名參加</span>
+
+                                    <a href="http://ctld.nthu.edu.tw/news/index.php?mode=data&id=2095" target="_blank">Read more</a>
+
+                                </p>
+
+                            </div>
+
+                        </li>
+
+                                            <li>
+
+                            <div>
+
+                                <a href="http://class.web.nthu.edu.tw/files/14-1669-119481,r11-1.php?Lang=
+
+5b4
+
+zh-tw" target="_blank"><img src="/images/event_149680247067.jpg" alt="2017大學生學習經驗問卷，歡迎踴躍填寫"></a>
+
+                                <p>
+
+                                    <span>2017大學生學習經驗問卷，歡迎踴躍填寫</span>
+
+                                    <br><br>填答對象：本校大二在學學生<br><br>
+
+                                    <span>開放時間：6/1至9/29</span>
+
+                                    <a href="http://class.web.nthu.edu.tw/files/14-1669-119481,r11-1.php?Lang=zh-tw" target="_blank">Read more</a>
+
+                                </p>
+
+                            </div>
+
+                        </li>
+
+                                            <li>
+
+                            <div>
+
+                                <a href="http://oga.nthu.edu.tw/cont.php?id=169&lang=en " target="_blank"><img src="/images/event_149397667035.jpg" alt="2017 NTHU Global Summer School"></a>
+
+                                <p>
+
+                                    <span>2017 NTHU Global Summer School</span>
+
+                                    <br><br>Courses in English and multiple discounts before May 21<br><br>
+
+                                    <span>Come and join us this summer!</span>
+
+                                    <a href="http://oga.nthu.edu.tw/cont.php?id=169&lang=en " target="_blank">Read more</a>
+
+                                </p>
+
+                      
+
+204a
+
+      </div>
+
+                        </li>
+
+                                    </ul>
+
+                <div class="clearout"></div>
+
+            </div>
+
+            <!-- -校內活動 end -->
+
+        
+
+                    <!-- 下方橫幅輪播 -->
+
+            <div class="width-100 link">
+
+                <ul id="flexiselDemo1">
+
+                                            <li><a href="http://pims.web.nthu.edu.tw" target="_blank"><img src="/images/activity_148067125998.jpg" alt="個資保護專區"></a></li>
+
+                                            <li><a href="http://top100.web.nthu.edu.tw" target="_blank"><img src="/images/activity_147756056815.jpg" alt="邁向頂尖大學"></a></li>
+
+                                            <li><a href="http://info.web.nthu.edu.tw/bin/home.php" target="_blank"><img src="/images/activity_147756052156.jpg" alt="校務資訊公開"></a></li>
+
+                                            <li><a href="http://college.nthu.edu.tw" target="_blank"><img src="/images/activity_147756049127.jpg" alt="住宿書院"></a></li>
+
+                                            <li><a href="http://st.web.nthu.edu.tw/files/11-1884-11079.php" target="_blank"><img src="/images/activity_147756046892.jpg" alt="跨領域學習"></a></li>
+
+                                            <li><a href="http://gencom.web.nthu.edu.tw" target="_blank"><img src="/images/activity_147756032748.jpg" alt="性平教育資訊"></a></li>
+
+                                            <li><a href="http://www1.nthu.edu.tw/nobel/index.php" target="_blank"><img src="/images/a2.jpg" alt="諾貝爾大師在清華"></a></li>
+
+                                            <li><a href="http://www.nthu.edu.tw/about/CIS" target="_blank"><img src="/images/a10.jpg" alt="清華品牌管理"></a></li>
+
+                                            <li><a href="http://ocic.nthu.edu.tw/ocic/Content02.aspx?c=menu02" target="_blank"><img src="/images/a12.jpg" alt="產學合作資訊平台"></a></li>
+
+                                            <li><a href="http://nesh.web.nthu.edu.tw/files/11-1021-9390.php" target="_blank"><img src="/images/a13.jpg" alt="垃圾不落地專區"></a></li>
+
+                                            <li><a href="http://www.ust.edu.tw/" target="_blank"><img src="/images/a6.jpg" alt="台灣聯合大學系統"></a></li>
+
+                                    </ul>
+
+                <div class="clearout"></div>
+
+            </div>
+
+            <!-- 下方橫幅輪播 end -->
+
+        
+
+        <!-- 下方大項 -->
+
+        <div class="width-100 icon">
+
+            <div><a href="http://nthu-president.vm.nthu.edu.tw/" target="_blank"><img src="images/icon01.png" alt="校長信箱"><p>校長信箱</p></a></div>
+
+            <div><a href="https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/OT/QA/" target="_blank"><img src="images/icon03.png" alt="合校Q & A"><p>合校Q & A</p></a></div>
+
+            <div><a href="http://www1.nthu.edu.tw/reporting.php" target="_blank"><img src="images/icon02.png" alt="意見反應通報"><p>意見反應通報</p></a></div>
+
+            <div><a href="http://bulletin.web.nthu.edu.tw/" target="_blank"><img src="images/icon05.png" alt="公告與活動"><p>公告與活動</p></a></div>
+
+            <div><a href="http://www1.nthu.edu.tw/focuson.php" target="_blank"><img src="images/icon04.png" alt="清華焦點"><p>清華焦點</p></a></div>
+
+        </div>
+
+        <!-- 下方大項 -->
+
+
+
+        </div>
+
+</section>
+
+<footer>
+
+	<div class="container">
+
+    	<div><a href="/sitemap" accesskey="B" class="tab" title="下方內容區">:::</a><a href="/"><img src="images/footer-logo.png" alt="國立清華大學logo"></a></div>
+
+        <div>
+
+        	<ul>
+
+            	<li>Copyright&copy;2017<br>National Tsing Hua<br>University ALL<br>RIGHTS RESERVED.</li>
+
+                <li><a href="mailto:web@cc.nthu.edu.tw" target="_blank"><i class="fa fa-chevron-right" aria-hidden="true"></i> 聯絡我們</a></li>
+
+                <li><a href="/campusmap" target="_blank"><i class="fa fa-chevron-right" aria-hidden="true"></i> 校園地圖資訊</a></li>
+
+                <li><a href="http://my.nthu.edu.tw/~maps3d/" target="_blank"><i class="fa fa-chevron-right" aria-hidden="true"></i> 3D校園導覽</a></li>
+
+            </ul>
+
+        </div>
+
+        <div>
+
+        	<ul>
+
+            	<li>QUICK LINK</li>
+
+                <li><a href="http://www1.nthu.edu.tw/elearning2.php"><i class="fa fa-chevron-right" aria-hidden="true"></i> 數位學習 / 線上課程</a></li>
+
+                <li><a href="http://academic.web.nthu.edu.tw/files/90-1009-6.php" target="_blank"><i class="fa fa-chevron-right" aria-hidden="true"></i> 獎學金</a></li>
+
+                <li><a href="http://eas.web.nthu.edu.tw/files/11-1161-3647.php" target="_blank"><i class="fa fa-chevron-right" aria-hidden="true"></i> 社團資訊</a></li>
+
+                <li><a href="http://www.media.nthu.edu.tw/channel/show/id/90" target="_blank"><i class="fa fa-chevron-right" aria-hidden="true"></i> 清華簡介</a></li>
+
+                <li><a href="http://livecam.web.nthu.edu.tw/files/14-1931-97850.php" target="_blank"><i class="fa fa-chevron-right" aria-hidden="true"></i> 校景即時看</a></li>
+
+                <li><a href="http://www.facebook.com/nthu.tw" target="_blank"><i class="fa fa-chevron-right" aria-hidden="true"></i> NTHU FB</a></li>
+
+            </ul>
+
+        </div>
+
+         <div>
+
+        	<ul>
+
+            	<li>CONTACT</li>
+
+                <li><img src="images/footer-icon01.png" alt=" ">30013 新竹市光復路二段101號 </li>
+
+                <li><img src="images/footer-icon02.png" alt=" ">總機：03-5715131 </li>
+
+                <li><img src="images/footer-icon03.png" alt=" ">統一編號：46804804 </li>
+
+                <li><img src="images/footer-icon04.png" alt=" "><p>VoIP 總機代表號：930-50000<br>轉接或直撥 930+分機號</p></li>
+
+            </ul>
+
+        </div>   
+
+    </div>
+
+</footer>
+
+</div>
+
+
+
+                <noscript>本Script功能提供跑馬燈播功能，若您的瀏覽器不支援此項功能，也不影響你閱讀本網站資訊。</noscript>
+
+
+
+        <script type="text/javascript">
+
+
+
+            $(window).load(function () {
+
+                $("#flexiselDemo2").flexisel({
+
+                    visibleItems: 4,
+
+                    animationSpeed: 1000,
+
+                    autoPlay: false,
+
+                    autoPlaySpeed: 3000,
+
+                    pauseOnHover: true,
+
+                    enableResponsiveBreakpoints: true,
+
+                    responsiveBreakpoints: {
+
+                        portrait: {
+
+                            changePoint: 480,
+
+                            visibleItems: 1
+
+                        },
+
+                        landscape: {
+
+                            changePoint: 640,
+
+                            visibleItems: 2
+
+                        },
+
+                        tablet: {
+
+                            changePoint: 768,
+
+                            visibleItems: 3
+
+                        }
+
+                    }
+
+                });
+
+            });
+
+
+
+            $(window).load(function () {
+
+
+
+                $("#flexiselDemo1").flexisel({
+
+                    visibleItems: 6,
+
+                    animationSpeed: 1000,
+
+                    autoPlay: true,
+
+                    autoPlaySpeed: 6000,
+
+                    pauseOnHover: true,
+
+                    enableResponsiveBreakpoints: true,
+
+                    responsiveBreakpoints: {
+
+                        portrait: {
+
+                            changePoint: 480,
+
+                            visibleItems: 2
+
+                        },
+
+                        landscape: {
+
+                            changePoint: 640,
+
+                            visibleItems: 3
+
+                        },
+
+                        tablet: {
+
+                            changePoint: 768,
+
+                            visibleItems: 4
+
+                        }
+
+                    }
+
+                });
+
+
+
+            })
+
+        </script>
+
+        <noscript>本Script功能提供小廣告輪播功能，若您的瀏覽器不支援此項功能，也不影響你閱讀本網站資訊。</noscript>
+
+
+
+    </body>
+
+
+
+</html>
+
+
+
+0
+
+
+
 
 **************************FOUND LINKS***************************
 
- LINK NO. 1: index.html
+ LINK NO. 1: /
 
- LINK NO. 2: Members.html
+ LINK NO. 2: /sitemap" accesskey="U" class="tab" title="上方選單區
 
- LINK NO. 3: advisor.html
+ LINK NO. 3: /sitemap
 
- LINK NO. 4: LAB/show.php
+ LINK NO. 4: http://nthusearch.net.nthu.edu.tw/nthusearch/" target="_blank
 
- LINK NO. 5: Gallery.html
+ LINK NO. 5: http://dgaa.web.nthu.edu.tw/files/11-1074-2942.php" target="_blank
 
- LINK NO. 6: contact.html
+ LINK NO. 6: http://dud.web.nthu.edu.tw/files/11-1675-9374.php?Lang=zh-tw" target="_blank
 
- LINK NO. 7: #
+ LINK NO. 7: http://nthu-en.web.nthu.edu.tw/" target="_blank
 
- LINK NO. 8: #
+ LINK NO. 8: /entrance/student
 
- LINK NO. 9: http://www.nthu.edu.tw
+ LINK NO. 9: http://oga.nthu.edu.tw/" target="_blank
 
- LINK NO. 10: http://web.cs.nthu.edu.tw/bin/home.php
+ LINK NO. 10: http://gsa.web.nthu.edu.tw/files/11-1146-3222.php" target="_blank
 
- LINK NO. 11: http://www.com.nthu.edu.tw/
+ LINK NO. 11: http://oga.nthu.edu.tw/cont.php?id=398&m=m141&mm=mm142&tc=8&lang=big5" target="_blank
 
- LINK NO. 12: http://www.highimpact-seo.co.uk/
+ LINK NO. 12: /entrance/teacher
+
+ LINK NO. 13: http://alumni.web.nthu.edu.tw/" target="_blank
+
+ LINK NO. 14: http://admission.nthu.edu.tw/" target="_blank
+
+ LINK NO. 15: /entrance/visitor
+
+ LINK NO. 16: http://www1.nthu.edu.tw/" target="_blank
+
+ LINK NO. 17: /hotNews
+
+ LINK NO. 18: /periodical
+
+ LINK NO. 19: /newsLetter
+
+ LINK NO. 20: /about
+
+ LINK NO. 21: /units/administrative
+
+ LINK NO. 22: /units/education
+
+ LINK NO. 23: /units/researchCenter
+
+ LINK NO. 24: http://www.lib.nthu.edu.tw/" target="_blank
+
+ LINK NO. 25: http://www.cc.nthu.edu.tw/" target="_blank
+
+ LINK NO. 26: http://admission.nthu.edu.tw/" target="_blank
+
+ LINK NO. 27: https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/" target="_blank
+
+ LINK NO. 28: http://my.nthu.edu.tw/~servicef/" target="_blank
+
+ LINK NO. 29: " accesskey="L" class="tab" title="中間內容區
+
+ LINK NO. 30: /hotNews/content/522
+
+ LINK NO. 31: /hotNews/content/521
+
+ LINK NO. 32: /hotNews/content/520
+
+ LINK NO. 33: /hotNews/content/519
+
+ LINK NO. 34: /award/content/116
+
+ LINK NO. 35: /award/content/115
+
+ LINK NO. 36: /award/content/114
+
+ LINK NO. 37: /award/content/113
+
+ LINK NO. 38: /award/content/112
+
+ LINK NO. 39: /award/content/111
+
+ LINK NO. 40: /award
+
+ LINK NO. 41: http://secretary.web.nthu.edu.tw/files/15-1160-121413,c8330-1.php?Lang=zh-tw" target="_blank
+
+ LINK NO. 42: http://secretary.web.nthu.edu.tw/files/15-1160-121414,c8330-1.php?Lang=zh-tw" target="_blank
+
+ LINK NO. 43: http://secretary.web.nthu.edu.tw/files/15-1160-118530,c8330-1.php?Lang=zh-tw" target="_blank
+
+ LINK NO. 44: http://secretary.web.nthu.edu.tw/files/15-1160-118520,c8330-1.php?Lang=zh-tw" target="_blank
+
+ LINK NO. 45: http://nthunews.media.nthu.edu.tw/" target="_blank
+
+ LINK NO. 46: /mediaReport/content/293
+
+ LINK NO. 47: /mediaReport/content/292
+
+ LINK NO. 48: /mediaReport/content/291
+
+ LINK NO. 49: /mediaReport/content/290
+
+ LINK NO. 50: /mediaReport/content/289
+
+ LINK NO. 51: /mediaReport/content/288
+
+ LINK NO. 52: /mediaReport/content/287
+
+ LINK NO. 53: /mediaReport/content/286
+
+ LINK NO. 54: /mediaReport/content/285
+
+ LINK NO. 55: /mediaReport/content/284
+
+ LINK NO. 56: /mediaReport
+
+ LINK NO. 57: http://www.lib.nthu.edu.tw/guide/exhibits_and_events/2015fountainhead/" target="_blank
+
+ LINK NO. 58: http://www.lib.nthu.edu.tw/guide/exhibits_and_events/2015fountainhead/" target="_blank
+
+ LINK NO. 59: http://my.nthu.edu.tw/~servicef/" target="_blank
+
+ LINK NO. 60: http://my.nthu.edu.tw/~servicef/" target="_blank
+
+ LINK NO. 61: http://ctld.nthu.edu.tw/news/index.php?mode=data&id=2095" target="_blank
+
+ LINK NO. 62: http://ctld.nthu.edu.tw/news/index.php?mode=data&id=2095" target="_blank
+
+ LINK NO. 63: http://class.web.nthu.edu.tw/files/14-1669-119481,r11-1.php?Lang=
+
+5b4
+
+zh-tw" target="_blank
+
+ LINK NO. 64: http://class.web.nthu.edu.tw/files/14-1669-119481,r11-1.php?Lang=zh-tw" target="_blank
+
+ LINK NO. 65: http://oga.nthu.edu.tw/cont.php?id=169&lang=en " target="_blank
+
+ LINK NO. 66: http://oga.nthu.edu.tw/cont.php?id=169&lang=en " target="_blank
+
+ LINK NO. 67: http://pims.web.nthu.edu.tw" target="_blank
+
+ LINK NO. 68: http://top100.web.nthu.edu.tw" target="_blank
+
+ LINK NO. 69: http://info.web.nthu.edu.tw/bin/home.php" target="_blank
+
+ LINK NO. 70: http://college.nthu.edu.tw" target="_blank
+
+ LINK NO. 71: http://st.web.nthu.edu.tw/files/11-1884-11079.php" target="_blank
+
+ LINK NO. 72: http://gencom.web.nthu.edu.tw" target="_blank
+
+ LINK NO. 73: http://www1.nthu.edu.tw/nobel/index.php" target="_blank
+
+ LINK NO. 74: http://www.nthu.edu.tw/about/CIS" target="_blank
+
+ LINK NO. 75: http://ocic.nthu.edu.tw/ocic/Content02.aspx?c=menu02" target="_blank
+
+ LINK NO. 76: http://nesh.web.nthu.edu.tw/files/11-1021-9390.php" target="_blank
+
+ LINK NO. 77: http://www.ust.edu.tw/" target="_blank
+
+ LINK NO. 78: http://nthu-president.vm.nthu.edu.tw/" target="_blank
+
+ LINK NO. 79: https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/OT/QA/" target="_blank
+
+ LINK NO. 80: http://www1.nthu.edu.tw/reporting.php" target="_blank
+
+ LINK NO. 81: http://bulletin.web.nthu.edu.tw/" target="_blank
+
+ LINK NO. 82: http://www1.nthu.edu.tw/focuson.php" target="_blank
+
+ LINK NO. 83: /sitemap" accesskey="B" class="tab" title="下方內容區
+
+ LINK NO. 84: /
+
+ LINK NO. 85: mailto:web@cc.nthu.edu.tw" target="_blank
+
+ LINK NO. 86: /campusmap" target="_blank
+
+ LINK NO. 87: http://my.nthu.edu.tw/~maps3d/" target="_blank
+
+ LINK NO. 88: http://www1.nthu.edu.tw/elearning2.php
+
+ LINK NO. 89: http://academic.web.nthu.edu.tw/files/90-1009-6.php" target="_blank
+
+ LINK NO. 90: http://eas.web.nthu.edu.tw/files/11-1161-3647.php" target="_blank
+
+ LINK NO. 91: http://www.media.nthu.edu.tw/channel/show/id/90" target="_blank
+
+ LINK NO. 92: http://livecam.web.nthu.edu.tw/files/14-1931-97850.php" target="_blank
+
+ LINK NO. 93: http://www.facebook.com/nthu.tw" target="_blank
